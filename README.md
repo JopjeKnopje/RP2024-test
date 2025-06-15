@@ -1,7 +1,7 @@
 <div align=center>
 
 # RP2040-test
-	Messing around with the RP2040 C/C++ toolchain.
+Messing around with the RP2040 C/C++ toolchain.
 </div>
 
 
