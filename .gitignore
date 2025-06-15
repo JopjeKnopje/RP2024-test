@@ -1,0 +1,8 @@
+_deps
+cmake-*
+build
+.DS_Store
+*.pdf
+.cache/*
+compile_commands.json
+set-env.sh
